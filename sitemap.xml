@@ -11,37 +11,57 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/development/development-guide/</loc>
+         <loc>https://www.fernandocelmer.com/nav/contact/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/development/release-notes/</loc>
+         <loc>https://www.fernandocelmer.com/nav/donate/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/setup/colors/</loc>
+         <loc>https://www.fernandocelmer.com/nav/about/about-foundation/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/setup/components/</loc>
+         <loc>https://www.fernandocelmer.com/nav/about/about-founders/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/setup/favicon/</loc>
+         <loc>https://www.fernandocelmer.com/nav/about/about-isb/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/setup/fonts/</loc>
+         <loc>https://www.fernandocelmer.com/nav/about/about-statut/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.fernandocelmer.com/nav/setup/logo/</loc>
+         <loc>https://www.fernandocelmer.com/nav/projects/colors/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.fernandocelmer.com/nav/projects/components/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.fernandocelmer.com/nav/projects/favicon/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.fernandocelmer.com/nav/projects/fonts/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.fernandocelmer.com/nav/projects/logo/</loc>
          <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
