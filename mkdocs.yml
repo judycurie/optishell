@@ -1,13 +1,13 @@
-site_name: MkDocs Simple Blog
+site_name: Fab Foundation Poland
 repo_name: FernandoCelmer/mkdocs-simple-blog
 repo_url: https://github.com/FernandoCelmer/mkdocs-simple-blog
 site_url: https://www.fernandocelmer.com/
-copyright: Fernando Celmer
+copyright: Judy Curie
 
 nav:
     - Home: index.md
-    - Getting Started: nav/getting-started.md
-    - Setup:
+    - About: nav/about.md
+    - Projects:
       - nav/setup/components.md
       - nav/setup/colors.md
       - nav/setup/fonts.md
@@ -20,7 +20,7 @@ nav:
 theme:
   name: simple-blog
   favicon: assets/favicon.ico
-  logo: assets/logo.png
+  logo: assets/230125_Logo1.jpg
   theme_style: light
   site_name_style: normal
   title_style: bold
