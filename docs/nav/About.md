@@ -2,7 +2,7 @@ January 14, 2023
 
 ---
 
-## Installation
+## About Foundation
 
 - Install the theme with pip:
 
@@ -16,3 +16,5 @@ pip install -U mkdocs-simple-blog
 theme:
     name: simple-blog
 ```
+
+## About Founders
