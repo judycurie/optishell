@@ -2,7 +2,7 @@ January 14, 2023
 
 ---
 
-## About Foundation
+## Installation
 
 - Install the theme with pip:
 
@@ -17,4 +17,4 @@ theme:
     name: simple-blog
 ```
 
-## About Founders
+
