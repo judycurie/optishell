@@ -1,21 +1,16 @@
 site_name: Fab Foundation Poland
-repo_name: FernandoCelmer/mkdocs-simple-blog
-repo_url: https://github.com/FernandoCelmer/mkdocs-simple-blog
 site_url: https://www.fernandocelmer.com/
 copyright: Judy Curie
 
 nav:
     - Home: index.md
     - About: nav/about.md
+
     - Projects:
-      - nav/setup/components.md
-      - nav/setup/colors.md
-      - nav/setup/fonts.md
-      - nav/setup/logo.md
-      - nav/setup/favicon.md
-    - Development:
-      - nav/development/development-guide.md
-      - nav/development/release-notes.md
+      - nav/projects/components.md
+      - nav/projects/colors.md
+    - Contact: nav/contact.md
+    - Donate: nav/donate.md
 
 theme:
   name: simple-blog

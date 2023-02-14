@@ -1,19 +1,13 @@
-January 14, 2023
 
----
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![](./assets/ffp-background1.jpg)
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Hello, digital world! | Hello, physical world! 
+by
+### Judy Curie | Ania Malinowska
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![](./images/FFP-Logo.jpg)
+
+The Fab Foundation Poland - a Polish daugther of the [Fab Foundation](https://fabfoundation.org/). The Fab Foundation Poland aims to brige the digital divine and conduct applied research into digital design & fabrication. The actions of the Fab Foundation Poland are primarly aimed for people living currently in Poland: Poles, Ukraininans and other people needing community, new job skills or a digitally fabricated house! 
