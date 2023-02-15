@@ -1,4 +1,3 @@
-![](./assets/ffp-background1.jpg)
 
 Currently we are trying to set-up a Fab Lab facility in Wrocław. We would appreciate any financial or material support. The list of equipment needed at the bottom of the website.
 

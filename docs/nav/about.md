@@ -1,4 +1,4 @@
-
+![](./assets/ffp-background1.jpg)
 # Fab Foundation Poland
 
 **name:** Fab Foundation Poland
@@ -26,4 +26,3 @@ Ania Malinowska is an author, a cultural theorist and Associate Professor in Med
 More at [www.ccts.us.edu.pl](https://www.ccts.us.edu.pl/)
 
 
-![](./assets/ffp-background1.jpg)
