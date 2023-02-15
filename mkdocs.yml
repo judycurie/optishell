@@ -5,17 +5,13 @@ copyright: Judy Curie
 nav:
     - Home: index.md
     - About: nav/about.md
-
-    - Projects:
-      - nav/projects/components.md
-      - nav/projects/colors.md
     - Contact: nav/contact.md
     - Donate: nav/donate.md
 
 theme:
   name: simple-blog
-  favicon: assets/favicon.ico
-  logo: assets/230125_Logo1.jpg
+  favicon: assets/ffp-logo-white.svg
+  logo: assets/ffp-icon.jpg
   theme_style: light
   site_name_style: normal
   title_style: bold
