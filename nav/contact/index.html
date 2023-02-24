@@ -7,7 +7,7 @@
 
             
             
-            <link rel="canonical" href="https://www.fernandocelmer.com/nav/contact/">
+            <link rel="canonical" href="https://www.fabfoundation.pl/nav/contact/">
 
             
                 <link  rel="icon" type="image/x-icon" href="../../assets/ffp-logo-white.svg">
@@ -21,6 +21,11 @@
             
             
                 
+                     <style>:root {--text: var(--color-black);}</style> 
+                     <style>:root {--title: var(--color-black);}</style> 
+                     <style>:root {--primary: var(--color-black);}</style> 
+                     <style>:root {--background: var(--color-white);}</style> 
+                
             
     </head>
 
@@ -33,7 +38,7 @@
         
             <img class="logo" src="../../assets/ffp-icon.jpg">
         
-        <span class="fs-4 bold title-color site-name" id="title" style="text-transform: uppercase;">Fab Foundation Poland</span>
+        <span class="fs-4 normal title-color site-name" id="title" style="text-transform: uppercase;">Fab Foundation Poland</span>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsMenu"
             aria-controls="navbarsMenu" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,17 +56,62 @@
                     <a class="
                     nav-link text-gray text-decoration-none" href="../..">[Home]</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item dropdown">
                     <a class="
-                    nav-link text-gray text-decoration-none" href="../about/">[About]</a>
+                    nav-link dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown">[About]</a>
+                    <ul class="dropdown-menu">
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../about/mission/" class="dropdown-item text-decoration-none ">Mission</a>
+    </li>
+<!-- endblock -->
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../about/founders/" class="dropdown-item text-decoration-none ">Founders</a>
+    </li>
+<!-- endblock -->
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../about/statut/" class="dropdown-item text-decoration-none ">Statut</a>
+    </li>
+<!-- endblock -->
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="
+                    nav-link dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown">[Research]</a>
+                    <ul class="dropdown-menu">
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../research/areas/" class="dropdown-item text-decoration-none ">Areas</a>
+    </li>
+<!-- endblock -->
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../research/international-scientific-council/" class="dropdown-item text-decoration-none ">International Scientific Council (ISC)</a>
+    </li>
+<!-- endblock -->
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="
+                    nav-link dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown">[Donate]</a>
+                    <ul class="dropdown-menu">
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../donate/donate/" class="dropdown-item text-decoration-none ">Donate</a>
+    </li>
+<!-- endblock -->
+                            <!-- block dropdown-menu -->
+    <li>
+        <a href="../donate/tax-deductions/" class="dropdown-item text-decoration-none ">Tax deductions</a>
+    </li>
+<!-- endblock -->
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class=" active 
                     nav-link text-gray text-decoration-none" href="./">[Contact]</a>
-                </li>
-                <li class="nav-item">
-                    <a class="
-                    nav-link text-gray text-decoration-none" href="../donate/">[Donate]</a>
                 </li>
     </ul>
 </li>
@@ -90,9 +140,10 @@
         </header>
         <p><p><img alt="" src="../assets/ffp-background2.jpg" /></p>
 <h2 id="fab-foundation-poland">Fab Foundation Poland</h2>
-<p>Otwarta 4/4, 50-212  Wrocław, Poland</p>
+<p><strong>Address:</strong> Otwarta 4/4, 50-212  Wrocław, Poland</p>
 <p><strong>NIP:</strong> 8982288193</p>
 <p><strong>KRS:</strong> 0001015698</p>
+<p><strong>REGON:</strong> 524311585</p>
 <p><strong>email:</strong> fabfoundationpoland@gmail.com</p></p>
     </article>
 </section>
@@ -101,13 +152,13 @@
                 <!-- block preview -->
         <div class="row row-cols-md-3 text-center pt-md-3">
             <div class="col themed-grid-col">
-                <a rel="prev" href="../about/" class="nav-link">
+                <a rel="prev" href="../donate/tax-deductions/" class="nav-link">
                     <i class="fa fa-arrow-left"></i> Previous
                 </a>
             </div>
             <div class="col themed-grid-col"></div>
             <div class="col themed-grid-col">
-                <a rel="next" href="../donate/" class="nav-link">
+                <a rel="next" class="nav-link disabled">
                     Next <i class="fa fa-arrow-right"></i>
                 </a>
             </div>
