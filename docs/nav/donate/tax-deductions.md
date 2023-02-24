@@ -45,7 +45,7 @@ source: https://www.podatki.gov.pl/pit/twoj-e-pit/pit-37-za-2022/#opp
 - zachować dowód wpłaty
 - w tytule przelewu podać cel darowizny mieszczący się w sferach pożytku publicznego 
  (wybierz jeden): “na cele pożytku publicznego: działalność w zakresie nauki, szkolnictwa wyższego, edukacji, oświaty i wychowania”/“na cele pożytku publicznego: działalności wspomagającej rozwój gospodarczy, w tym rozwój przedsiębiorczości”/“na cele pożytku publicznego: działalności wspomagającej rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej”/ “na cele pożytku publicznego: działalności na rzecz integracji europejskiej oraz rozwijania kontaktów i współpracy między społeczeństwami”/ “na cele pożytku publicznego: działalności na rzecz osób w wieku emerytalnym”
-- w kolejnym roku podatkowym wpłaconą kwotę możesz odliczyć od podatku dochodowego: [instrukcja](./nav/donate/tax-poland.md) 
+- w kolejnym roku podatkowym wpłaconą kwotę możesz odliczyć od podatku dochodowego: [instrukcja](tax-poland.md) 
 
 
 
