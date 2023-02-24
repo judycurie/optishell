@@ -1,12 +1,3 @@
-![](./assets/ffp-background1.jpg)
-# Fab Foundation Poland
-
-**name:** Fab Foundation Poland
-
-**location:** Wrocław, Poland
-
-**aim:** Conducting public benefit activities in the scientific, scientific and technical, educational, cultural and artistic spheres. Conducting basic research, industrial research, experimental development and disseminating the results of such activities on a large scale through teaching, publication and knowledge transfer in the field of broadly understood innovation with particular emphasis on digital fabrication, design technologies and art.
-
 
 # Founders
 
@@ -24,5 +15,3 @@ More at: [judycurie.com](https://judycurie.com/)
 Ania Malinowska is an author, a cultural theorist and Associate Professor in Media and Cultural Studies at the Faculty of Humanities, University of Silesia (Poland), and a former Senior Fulbright Fellow at the New School of Social Research in New York. She is also a founding member of Centre for Critical Technology Studies (University of Silesia). Her research concentrates on cultural theory, love studies, digital humanities, and critical robotics – and specifically on the formation of cultural norms and the social, emotional and aesthetic codes in relation to digitalism.
 
 More at [www.ccts.us.edu.pl](https://www.ccts.us.edu.pl/)
-
-

@@ -1,28 +1,37 @@
 site_name: Fab Foundation Poland
-site_url: https://www.fernandocelmer.com/
+repo_name: judycurie/ffp
+site_url: https://www.fabfoundation.pl/
 copyright: Judy Curie
 
 nav:
     - Home: index.md
-    - About: nav/about.md
+    - About:
+      - nav/about/mission.md
+      - nav/about/founders.md
+      - nav/about/statut.md
+      
+    - Research:
+      - nav/research/areas.md
+      - nav/research/international-scientific-council.md
+    - Donate:
+      - nav/donate/donate.md
+      - nav/donate/tax-deductions.md
     - Contact: nav/contact.md
-    - Donate: nav/donate.md
 
 theme:
   name: simple-blog
+  title_style: normal
   favicon: assets/ffp-logo-white.svg
   logo: assets/ffp-icon.jpg
-  theme_style: light
-  site_name_style: normal
-  title_style: bold
+  # theme_style: light
   colors:
     text: black
     title: black
     primary: black
     background: white
-  components:
-    site_name: true
-    title: true
-    menu: true
-    preview: true
-    footer: true
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
