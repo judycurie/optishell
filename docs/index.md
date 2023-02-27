@@ -12,3 +12,7 @@ The Fab Foundation Poland - a Polish daugther of the [Fab Foundation](https://fa
 
 
 Currently we are working on establishing a Fab Lab facility in Wrocław! 
+
+### Road Map
+
+![](./assets/ffp-roadmap.png)
