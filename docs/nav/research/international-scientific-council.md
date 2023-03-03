@@ -3,6 +3,8 @@
 
 International Scientific Council is a scientific, advisory and representative body of the Foundation. The members of the International Scientific Council are world-class scientists and experts in the field of digital design, fabrication, technology and art. Members of ISC advise on and lead research projects carried out by Fab Foundation Poland. 
 
+
+____________________________
 ![](./assets/jacek-kosciuk.jpg)
 ### ** Prof. Jacek Kościuk**
 
@@ -14,3 +16,15 @@ In 2020 Prof. Kosciuk was awarded the highest scientific nomination by the Polis
 
 More at: [linkedin](https://www.linkedin.com/in/jacek-ko%C5%9Bciuk-1347452/)
 
+____________________________
+
+![](./assets/janusz-rebielak.jpg)
+### **Prof. Janusz Rębielak**
+
+Polish architect and constructor, professor of technical sciences. He has been working at the Cracow University of Technology (TU Cracow) since 2008. From 2017, head of the Department of Construction and Construction Techniques and from 2019 the Postgraduate Manager of "Building Information Modeling - Digital Technologies in Architecture and Construction" at the TU Cracow.
+
+His research work evolves around numerical methods for shaping spatial structures as well as proposals for their applications for high span roof systems, high-rise buildings and the innovative methods of their safe foundation on soils with poor load capacity, especially in mining damage and seismically active areas. His original system of a complex foundation is a breakthrough technical solution in this area of engineering activities. He also developed a two -stage method of solving statically indisputable trusses and a method of deformation of the secondary mesh, the latter was developed for the needs of designing geodesic domes. He published over 220 scientific papers. In 2006 the President of the Republic of Poland gave him the title of professor.
+
+Prof. Rębielak has been a Chairman of the Committee on Architecture and Urban Planning of the Polish Academy of Sciences (PAN) in Wrocław since 2006 and he is an active member of the International Association for Shell and Spatial Structures. He organized the *International Association for Shell and Spatial Structures Symposium (IASS) 2013: Beyond the man limits* in Wroclaw, Poland.
+
+More at: [wikipedia](https://pl.wikipedia.org/wiki/Janusz_R%C4%99bielak)
