@@ -6,6 +6,7 @@
 We are intrested in conducting and colaborating in research projects broadly in the following areas:
 
 - digital fabrication, rapid prototyping, 3D scanning
+	- smart fabrication of materials and building components
 	- creation of the economic housing unit that can be produeced by fablabs
 	- recycle: recyclable & bio materials for digital fabrication
 	- reuse: creation of 3D libraries of the available second-hand materials

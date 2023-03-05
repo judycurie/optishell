@@ -21,12 +21,50 @@ ____________________________
 ![](./assets/janusz-rebielak.jpg)
 ### **Prof. Janusz Rębielak**
 
-Polish architect and constructor, professor of technical sciences. He has been workingat the Cracow University of Technology (TU
-Cracow) since 2008. He was a head of Chair of Structures and Construction Engineering and moreover Manager of the Postgraduate Study “Building Information Modeling – digital technologies in architecture and construction” of*Building Information Modeling - Digital Technologies in Architecture and Construction* at the TU Cracow. His research work evolves around numerical methods for shaping spatial structures as well as proposals for their applications for high span roof systems, high-rise buildings and the innovative methods of their safe foundation on soils with poor load capacity, especially in mining damage and seismically active areas. His original system of a complex foundation is a breakthrough
-technical solution in this area of engineering activities. He also developed a two -stage method of solving statically indeterminate trusses and a method of deformation of the secondary mesh, the latter was developed for the needs of designing geodesic domes. He published over 230 scientific papers. In 2006 the President of the Republic of Poland gave him the title of professor.
+Polish architect and engineer, professor of technical sciences. He has been working at
+the Cracow University of Technology (TU
+Cracow) since 2008. He was a head of Chair
+of Structures and Construction Engineering
+(A-42) and moreover he was head of
+Postgraduate Study BIM “Building Information
+Modeling – digital technologies in
+architecture and construction” at the TU
+Cracow.
+His research work evolves around numerical
+methods for shaping spatial structures as
+well as proposals for their applications for
+high span roof systems, high-rise buildings
+and the innovative methods of their safe
+foundation on soils with poor load capacity,
+especially on mining damage sectors and in
+earthquake areas . His original system of
+combine foundation is a breakthrough
+technical solution in this area of
+engineering activities. He also developed a
+two-stage method of calculation of
+statically indeterminate trusses and a
+method of secondary grid deformation, which
+enables to design the most regular
 
-Prof. Rębielak has been a Chairman of the Committee on Architecture and Urban Planning of the of Wroclaw Branch of the Polish Academy
-of Sciences (PAN) since 2006 and he was member of some national and international scientific societies as well as a member of scientific
-boards or editorial committees of national and international scientific journals; at present, among others, a member of the Editorial Board of The International Journal of Computational Methods (IJCM).
+triangular grids for geodesic domes; he is
+also involved in working out the innovative
+concepts of the structural systems for the
+vertical take-off and landing airplanes and
+for the short take-off and landing
+airplanes, as well as the innovative
+concepts of the technical solutions for the
+retractable roof structures. So far he
+published over 230 scientific papers.
+Prof. Rębielak has been a Chairman of the
+Committee on Architecture and Urban Planning
+of the of Wroclaw Branch of the Polish Academy
+of Sciences (PAN) since 2006 and he was member
+of some national and international scientific
+societies as well as a member of scientific
+boards or editorial committees of national and
+international scientific journals; at present,
+among others, a member of the Editorial Board of
+The International Journal of Computational
+Methods (IJCM).
 
-More at: [wikipedia](https://pl.wikipedia.org/wiki/Janusz_R%C4%99bielak)
+More at: [http://januszrebielak.pl](http://januszrebielak.pl) and [wikipedia](https://pl.wikipedia.org/wiki/Janusz_R%C4%99bielak).
