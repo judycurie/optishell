@@ -11,7 +11,9 @@
 
 **2.** Załóż skyrznkę UPAP.
 2.1 Przez Swój profil Zaufany zaloguj się i kliknij ****
-2.2 Po założeniu profilu, wyszykuaj *udostępnianie usług*
+2.2 Po założeniu profilu ,Przejdź do Udostępniania usług i
+kliknij w link Nadanie uprawnień
+Podmiotu Publicznego
 https://epuap.gov.pl/wps/wcm/myconnect/ac65349b-5155-4813-bd94-d8439afa80ea/Zak%C5%82adanie+konta+podmiotu+i+dodawanie+us%C5%82ug_v3.pdf?MOD=AJPERES
 
 ![](./assets/2.png)

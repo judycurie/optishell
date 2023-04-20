@@ -1,14 +1,19 @@
 
-# International Scientific Council (ISC)
+
 
 International Scientific Council is a scientific, advisory and representative body of the Foundation. The members of the International Scientific Council are world-class scientists and experts in the field of digital design, fabrication, technology and art. Members of ISC advise on and lead research projects carried out by Fab Foundation Poland.
 
 ____________________________
-![](./assets/philippe-block.jpg)
+![](../assets/research/philippe-block.png)
 ### ** Prof. Dr. Philippe Block**
-too be added soon
+
+Philippe Block is professor at the Institute of Technology in Architecture (ITA) at ETH Zurich, where he leads the Block Research Group (BRG) with Dr. Tom Van Mele and is Head of the Institute. Philippe is also Director of the Swiss National Centre of Competence in Research (NCCR) on Digital Fabrication. He studied architecture and structural engineering at the Vrije Universiteit Brussel and at the Massachusetts Institute of Technology, where he earned his PhD in 2009. Philippe and Tom apply their research into practice providing innovation in (computational) design, engineering, fabrication and construction of sustainable, circular and economical structures, addressing climate change by significantly reducing embodied emissions, utilising fewer single-use resources and minimising construction waste.
+
+Following the motto “strength through geometry” and the principles of traditional unreinforced masonry construction, the BRG translates this knowledge into projects such as the unreinforced stone Armadillo Vault, the thin, flexibly formed concrete shells of the NEST HiLo and KnitCandela, the 3D-concrete-printed masonry bridge Striatus, and the Rippmann Floor System (RFS), a lightweight and ultra-low-embodied floor system.
+
+[Link to website](https://block.arch.ethz.ch/)
 ____________________________
-![](./assets/jacek-kosciuk.jpg)
+![](../assets/research/jacek-kosciuk.jpg)
 ### ** Prof. Jacek Kościuk**
 
 Prof. Kościuk is an innovator in the application of 3D scanning for creating digital documentation of historical and archeological objects. 3D laser scanning, modeling and simulations not only enhance the heritage documentation with the 3D digital twins, but it also can aid dating the objects by analysis of brics dimensions or helped to discover the ancient Incaic measuring units. The 3D documentation made with sub-millimeter precision is of key importance for monitoring atmospheric and climatic factors causing erosion processes and implementing proper conservation programs. Over 40 years of experience in building archaeology and architectural monument preservation in Poland and worldwide, including +15 sites from the UNESCO World Heritage List e.g.  Temple of Hatshepsut in Deir el-Bahari (Egypt), El Fuerte de Samaipata (Bolivia), Corikancha temple in Cusco and  Machu Picchu (Peru).
@@ -21,7 +26,7 @@ More at: [linkedin](https://www.linkedin.com/in/jacek-ko%C5%9Bciuk-1347452/)
 
 ____________________________
 
-![](./assets/janusz-rebielak.jpg)
+![](../assets/research/janusz-rebielak.jpg)
 ### **Prof. Janusz Rębielak**
 
 Polish architect and engineer, professor of technical sciences. He has been working at

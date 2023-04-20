@@ -1,5 +1,5 @@
 
-![](./assets/graphics-master-areas.png)
+![](../assets/research/graphics-master-areas.png)
 # Research Areas
 
 
@@ -11,7 +11,7 @@ We are intrested in conducting and colaborating in research projects broadly in 
 	- recycle: recyclable & bio materials for digital fabrication
 	- reuse: creation of 3D libraries of the available second-hand materials
       - establishing matching processes for the best material economy
- 
+
 
 - computational design, design optimization, multidisciplinary optimization
   	- structural art (elegant, efficient & economic structures)
@@ -25,9 +25,3 @@ We are intrested in conducting and colaborating in research projects broadly in 
 - visual & digital art
 	- AI-based art
 	- generative processess with human input
-	
-
-
-
-
-

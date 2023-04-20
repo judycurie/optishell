@@ -38,7 +38,7 @@ The Foundation may use the following abbreviation of its name: FFP, a distinctiv
 
 **§ 5**
 
-The minister responsible for the Foundation's affairs is the minister of education and science. 
+The minister responsible for the Foundation's affairs is the minister of education and science.
 
 ##Chapter II
 ###Objectives and Activities of the Foundation
@@ -67,7 +67,7 @@ The Foundation pursues its statutory objectives by:
 **Table 1.** Statutory goals, their scope, activities of the foundation and the Polish Classification of Activities.
 
 
-![](./assets/STATUT - Cele Statutowe i Działalność Fundacji - Google Sheets.png)
+![](../assets/about/STATUT - Cele Statutowe i Działalność Fundacji - Google Sheets.png)
 
 
 **§ 9 **
@@ -76,7 +76,7 @@ In order to achieve its goals, the Foundation may support the activities of othe
 
 **§ 10 **
 
-1. The Foundation conducts business activity to the extent necessary to achieve its goals. 
+1. The Foundation conducts business activity to the extent necessary to achieve its goals.
 2. The Foundation may conduct business activity in Poland and abroad in accordance with applicable regulations.
 3. The Foundation's economic activity may also be carried out through participation in civil and commercial law companies, including companies with participation of foreign entities on the terms set out in the relevant regulations.
 
@@ -107,7 +107,7 @@ g. economic activity.
 
 All income obtained by the Foundation from its business activities, subsidies, public collections, donations or sponsorships are allocated to the implementation of its goals, its development and structure.
 
-##Chapter IV 
+##Chapter IV
 ###Structure/ Bodies of the Foundation
 
 **§ 14 **
@@ -118,7 +118,7 @@ All income obtained by the Foundation from its business activities, subsidies, p
 
 **B.** International Scientific Council
 
-**§ 15** 
+**§ 15**
 
 Resolutions are adopted by the Founders' Presidium by unanimous decision of both Founders.
 
@@ -152,13 +152,13 @@ b. loss of civil rights as a result of being convicted by a final court judgment
 c. death of a member of the Management Board,
 d. cancellation by the Founders' Presidium.
 
-**§ 18** 
+**§ 18**
 
 The following persons are authorized to make declarations of will and sign contracts on behalf of the Foundation:
 a. President of the Management Board of the Foundation - independently,
 b. Vice-President of the Foundation Board - independently
 
-**§ 19** 
+**§ 19**
 
 1. Meetings of the Management Board are held as needed, but not less frequently than once a quarter. 2. Meetings of the Management Board are convened by the President, sending information about the date by e-mail, and if this is not possible, by registered mail at least 3 days before the planned meeting.
 3. All members of the Management Board must be notified of the meeting.
@@ -178,8 +178,8 @@ c. represent the Foundation in the media and use the Foundation's affiliation,
 d. perform honorary and representative functions, e.g. presenting awards, opening a gala, e. receive remuneration and reimbursement of costs incurred in connection with activities for the Foundation,
 f. conduct research in accordance with the goals of the foundation (this also applies to managing research grants).
 
-##Chapter V 
-##Final Provisions 
+##Chapter V
+##Final Provisions
 
 **§ 21 **
 
@@ -191,7 +191,7 @@ Amendments to the Foundation's statute are made by the Foundation's management b
 
 1. The Foundation may merge with another foundation for the effective implementation of its goals.
 2. In matters of merger with another Foundation, the Management Board is competent, while its decisions are made by unanimous resolution and require approval by the Founders' Presidium to be effective.
- 
+
 **Liquidation of the Foundation **
 
 **§ 23 **
@@ -199,14 +199,11 @@ Amendments to the Foundation's statute are made by the Foundation's management b
 The decision on liquidation is taken by the Management Board by way of a unanimous resolution, which requires approval by the Founders' Presidium in order to produce legal effects. The resolution on liquidation may specify the purposes for which the assets should be allocated after its liquidation.
 
 **Other**
- 
+
 **§24**
- 
+
 In matters not covered by this Statute, the relevant provisions of national and international law shall apply.
 
 **§ 25 **
 
 The Statute enters into force on the day of registration by the District Court for the capital city of Wrocław.
-
-
-

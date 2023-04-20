@@ -1,7 +1,7 @@
 
 
 
-![](./assets/graphics-master-mission.png)
+![](../assets/about/graphics-master-mission.png)
 
 **name:** Fab Foundation Poland
 

@@ -5,14 +5,14 @@ Below some hints how to get a tax-reduction if you are a tax-payer in the below 
 
 ## Tax-payers in European Union (EU) or the European Economic Area (EEA).
 
-![](./assets/eu-tax.png)
+![](../assets/donate/eu-tax.png)
 
 European taxpayers can deduct from tax donations made to public benefit organizations in another EU country, the Court of Justice of the EU in Luxembourg ruled in 2009.
 The Court made it clear that if a public benefit organization fulfills the conditions laid down in another Member State "and aims to promote identical interests", "the authorities of that Member State may not deny such an organization the right to equal treatment on the sole ground that it does not have established in its territory.
 
 source: https://ec.europa.eu/commission/presscorner/detail/en/CJE_09_5
 
-To deduce from the tax the donation to the Fab Foundation Poland, check with your national tax office what documents you need, send us a email with the list of required documents. We will  provide you the necessary documents. 
+To deduce from the tax the donation to the Fab Foundation Poland, check with your national tax office what documents you need, send us a email with the list of required documents. We will  provide you the necessary documents.
 
 
 ### Tax-payers in Poland
@@ -41,16 +41,14 @@ source: https://www.podatki.gov.pl/pit/twoj-e-pit/pit-37-za-2022/#opp
 
 **Jak odpisać od podatku darowiznę na Fundację Fab Foundation Poland?**
 
-- wpłacić na konto fundacji kwotę nie przekraczającą 6% dochodu 
+- wpłacić na konto fundacji kwotę nie przekraczającą 6% dochodu
 - zachować dowód wpłaty
-- w tytule przelewu podać cel darowizny mieszczący się w sferach pożytku publicznego 
+- w tytule przelewu podać cel darowizny mieszczący się w sferach pożytku publicznego
  (wybierz jeden): “na cele pożytku publicznego: działalność w zakresie nauki, szkolnictwa wyższego, edukacji, oświaty i wychowania”/“na cele pożytku publicznego: działalności wspomagającej rozwój gospodarczy, w tym rozwój przedsiębiorczości”/“na cele pożytku publicznego: działalności wspomagającej rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej”/ “na cele pożytku publicznego: działalności na rzecz integracji europejskiej oraz rozwijania kontaktów i współpracy między społeczeństwami”/ “na cele pożytku publicznego: działalności na rzecz osób w wieku emerytalnym”
-- w kolejnym roku podatkowym wpłaconą kwotę możesz odliczyć od podatku dochodowego: [instrukcja](tax-poland.md) 
+- w kolejnym roku podatkowym wpłaconą kwotę możesz odliczyć od podatku dochodowego: [instrukcja](tax-poland.md)
 
 
 
-## Tax payers outside the European Union or the European Economic Area (EEA). 
+## Tax payers outside the European Union or the European Economic Area (EEA).
 
-Check with your national tax office, if donations to a non-profit NGO conducting activities for public benefit located in Poland are tax-deductible. If yes, send us a list of documents you need to submit and we will do our best to provide you with all you need. 
-
- 
+Check with your national tax office, if donations to a non-profit NGO conducting activities for public benefit located in Poland are tax-deductible. If yes, send us a list of documents you need to submit and we will do our best to provide you with all you need.
