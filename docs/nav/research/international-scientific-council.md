@@ -13,6 +13,16 @@ Following the motto “strength through geometry” and the principles of tradit
 
 [Link to website](https://block.arch.ethz.ch/)
 ____________________________
+![](../assets/research/mariana-popescu.png)
+### ** Dr. Mariana Popescu**
+
+Mariana Popescu is a computational architect and structural designer with a strong interest and experience in innovative ways of approaching the fabrication process and use of materials in construction. She is Assistant Professor of Parametric Structural Design
+and Digital Fabrication at the Delft University of Technology, Faculty of Civil engineering and Geosciences. Her area of expertise is computational and parametric design with a focus on digital fabrication and sustainable design. Her extensive involvement
+in projects related to promoting sustainability has led to a multilateral development of skills, which combine the fields of architecture, engineering, computational design and digital fabrication. She obtained her PhD in 2019 from ETH Zurich with a focus
+on the development of KnitCrete - a flexible formwork system using knitted textiles. She is the main author of the award-winning KnitCandela shell and was named a “Pioneer” in the MIT Technology Review Innovator Under 35 list of 2019.
+
+[Link to website](http://maadpope.com/)
+____________________________
 ![](../assets/research/jacek-kosciuk.jpg)
 ### ** Prof. Jacek Kościuk**
 
