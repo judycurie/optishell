@@ -9,7 +9,7 @@ nav:
       - nav/about/mission.md
       - nav/about/founders.md
       - nav/about/statut.md
-      
+
     - Research:
       - nav/research/areas.md
       - nav/research/international-scientific-council.md
@@ -30,9 +30,3 @@ theme:
     title: black
     primary: black
     background: white
-markdown_extensions:
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde

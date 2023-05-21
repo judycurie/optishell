@@ -12,8 +12,10 @@ Philippe Block is professor at the Institute of Technology in Architecture (ITA)
 Following the motto “strength through geometry” and the principles of traditional unreinforced masonry construction, the BRG translates this knowledge into projects such as the unreinforced stone Armadillo Vault, the thin, flexibly formed concrete shells of the NEST HiLo and KnitCandela, the 3D-concrete-printed masonry bridge Striatus, and the Rippmann Floor System (RFS), a lightweight and ultra-low-embodied floor system.
 
 [Link to website](https://block.arch.ethz.ch/)
+
+
 ____________________________
-![](../assets/research/mariana-popescu.png)
+![](../assets/research/MarianaPopescu.jpg)
 ### ** Dr. Mariana Popescu**
 
 Mariana Popescu is a computational architect and structural designer with a strong interest and experience in innovative ways of approaching the fabrication process and use of materials in construction. She is Assistant Professor of Parametric Structural Design
@@ -22,6 +24,8 @@ in projects related to promoting sustainability has led to a multilateral develo
 on the development of KnitCrete - a flexible formwork system using knitted textiles. She is the main author of the award-winning KnitCandela shell and was named a “Pioneer” in the MIT Technology Review Innovator Under 35 list of 2019.
 
 [Link to website](http://maadpope.com/)
+
+
 ____________________________
 ![](../assets/research/jacek-kosciuk.jpg)
 ### ** Prof. Jacek Kościuk**
@@ -33,6 +37,8 @@ In 2007 he founded the  the Laboratory of 3D Scanning and Modeling within Wrocla
 In 2020 Prof. Kosciuk was awarded the highest scientific nomination by the Polish President. By younger generations he is often referred to as a father (or a god father) of bringing new technologies into architectural education in Poland.
 
 More at: [linkedin](https://www.linkedin.com/in/jacek-ko%C5%9Bciuk-1347452/)
+
+
 
 ____________________________
 
