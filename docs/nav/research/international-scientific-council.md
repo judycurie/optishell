@@ -1,7 +1,10 @@
-
-
-
 The International Scientific Council is a scientific, advisory, and representative body of the Foundation. The members of the International Scientific Council are world-class scientists and experts in the field of digital design, fabrication, technology, and art. Members of ISC advise on and lead research projects carried out by Fab Foundation Poland.
+
+![](../assets/research/ffp.png)
+
+
+
+
 
 ____________________________
 ![](../assets/research/philippe-block.png)
@@ -13,22 +16,11 @@ Following the motto “strength through geometry” and the principles of tradit
 
 [Link to website](https://block.arch.ethz.ch/)
 ____________________________
-![](../assets/research/GabiBila.png)
-### ** Asst. Prof.  Gabriela Bìlá**
-
-Gabriela Bìlá is a Brazilian architect, multimedia designer and artist. She uses discussions over the contemporary city as the raw material of her work, combining new media and immersive interfaces to reimagine cities.
-
-Gabriela is currently based in Cambridge Massachusetts, working as a Research Scientist and lecturer at the MIT Media Lab City Science group. Her line of research focuses on developing new immersive experiences to envision how humans will adapt to global changes and incorporation of new technologies in daily life. Her work has been featured at the Venice Architecture Biennale and the Guggenheim Bilbao. She has previously worked at various design and architecture offices such as OMA Rotterdam and LAVA Berlin.
-
-Contact: gba@mit.edu
-
-[Link to website](https://www.media.mit.edu/people/gba/overview/)
 
 
 
 
 
-____________________________
 ![](../assets/research/MarianaPopescu.jpg)
 ### ** Dr. Mariana Popescu**
 
@@ -41,18 +33,17 @@ on the development of KnitCrete - a flexible formwork system using knitted texti
 
 
 ____________________________
-![](../assets/research/jacek-kosciuk.jpg)
-### ** Prof. Jacek Kościuk**
 
-Prof. Kościuk is an innovator in the application of 3D scanning for creating digital documentation of historical and archeological objects. 3D laser scanning, modeling and simulations not only enhance the heritage documentation with the 3D digital twins, but it also can aid dating the objects by analysis of brics dimensions or helped to discover the ancient Incaic measuring units. The 3D documentation made with sub-millimeter precision is of key importance for monitoring atmospheric and climatic factors causing erosion processes and implementing proper conservation programs. Over 40 years of experience in building archaeology and architectural monument preservation in Poland and worldwide, including +15 sites from the UNESCO World Heritage List e.g.  Temple of Hatshepsut in Deir el-Bahari (Egypt), El Fuerte de Samaipata (Bolivia), Corikancha temple in Cusco and  Machu Picchu (Peru).
+![](../assets/research/GabiBila.png)
+### ** Asst. Prof.  Gabriela Bìlá**
 
-In 2007 he founded the  the Laboratory of 3D Scanning and Modeling within Wroclaw University of Technology and Science (TU Wroclaw), which he was supervising as a head-director. Prof. Kościuk was the first professor in Poland who supervised doctoral thesis into digital design, 3D scanning, simulation and optimization. Thanks to him the Laboratory of Digital Fabrication [LabDigiFab](https://labdigifab.wordpress.com/) was funded within TU Wroclaw. This student organization was a unique opportunity at that time to get skills and knowledge about digital design and fabrication. The former students of LabDigiFab, continued their education graduating from among others MIT, UCL Bartlett or ICD Stuttgart.  During its activity LabDigiFab organized in 2015 first in Poland International Conference of Parametric Design *Shapes of Logic* [link](https://shapesoflogic.wordpress.com/), followed in 2017 by its second edition [link](https://es-la.facebook.com/shapesoflogic/).
+Gabriela Bìlá is a Brazilian architect, multimedia designer and artist. She uses discussions over the contemporary city as the raw material of her work, combining new media and immersive interfaces to reimagine cities.
 
-In 2020 Prof. Kosciuk was awarded the highest scientific nomination by the Polish President. By younger generations he is often referred to as a father (or a god father) of bringing new technologies into architectural education in Poland.
+Gabriela is currently based in Cambridge Massachusetts, working as a Research Scientist and lecturer at the MIT Media Lab City Science group. Her line of research focuses on developing new immersive experiences to envision how humans will adapt to global changes and incorporation of new technologies in daily life. Her work has been featured at the Venice Architecture Biennale and the Guggenheim Bilbao. She has previously worked at various design and architecture offices such as OMA Rotterdam and LAVA Berlin.
 
-More at: [linkedin](https://www.linkedin.com/in/jacek-ko%C5%9Bciuk-1347452/)
+Contact: gba@mit.edu
 
-
+[Link to website](https://www.media.mit.edu/people/gba/overview/)
 
 ____________________________
 
@@ -106,3 +97,20 @@ The International Journal of Computational
 Methods (IJCM).
 
 More at: [http://januszrebielak.pl](http://januszrebielak.pl) and [wikipedia](https://pl.wikipedia.org/wiki/Janusz_R%C4%99bielak).
+
+
+____________________________
+![](../assets/research/jacek-kosciuk.jpg)
+### ** Prof. Jacek Kościuk**
+
+Prof. Kościuk is an innovator in the application of 3D scanning for creating digital documentation of historical and archeological objects. 3D laser scanning, modeling and simulations not only enhance the heritage documentation with the 3D digital twins, but it also can aid dating the objects by analysis of brics dimensions or helped to discover the ancient Incaic measuring units. The 3D documentation made with sub-millimeter precision is of key importance for monitoring atmospheric and climatic factors causing erosion processes and implementing proper conservation programs. Over 40 years of experience in building archaeology and architectural monument preservation in Poland and worldwide, including +15 sites from the UNESCO World Heritage List e.g.  Temple of Hatshepsut in Deir el-Bahari (Egypt), El Fuerte de Samaipata (Bolivia), Corikancha temple in Cusco and  Machu Picchu (Peru).
+
+In 2007 he founded the  the Laboratory of 3D Scanning and Modeling within Wroclaw University of Technology and Science (TU Wroclaw), which he was supervising as a head-director. Prof. Kościuk was the first professor in Poland who supervised doctoral thesis into digital design, 3D scanning, simulation and optimization. Thanks to him the Laboratory of Digital Fabrication [LabDigiFab](https://labdigifab.wordpress.com/) was funded within TU Wroclaw. This student organization was a unique opportunity at that time to get skills and knowledge about digital design and fabrication. The former students of LabDigiFab, continued their education graduating from among others MIT, UCL Bartlett or ICD Stuttgart.  During its activity LabDigiFab organized in 2015 first in Poland International Conference of Parametric Design *Shapes of Logic* [link](https://shapesoflogic.wordpress.com/), followed in 2017 by its second edition [link](https://es-la.facebook.com/shapesoflogic/).
+
+In 2020 Prof. Kosciuk was awarded the highest scientific nomination by the Polish President. By younger generations he is often referred to as a father (or a god father) of bringing new technologies into architectural education in Poland.
+
+More at: [linkedin](https://www.linkedin.com/in/jacek-ko%C5%9Bciuk-1347452/)
+
+
+
+____________________________
