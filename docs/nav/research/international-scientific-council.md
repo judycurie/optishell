@@ -12,6 +12,20 @@ Philippe Block is professor at the Institute of Technology in Architecture (ITA)
 Following the motto “strength through geometry” and the principles of traditional unreinforced masonry construction, the BRG translates this knowledge into projects such as the unreinforced stone Armadillo Vault, the thin, flexibly formed concrete shells of the NEST HiLo and KnitCandela, the 3D-concrete-printed masonry bridge Striatus, and the Rippmann Floor System (RFS), a lightweight and ultra-low-embodied floor system.
 
 [Link to website](https://block.arch.ethz.ch/)
+____________________________
+![](../assets/research/GabiBila.png)
+### ** Asst. Prof.  Gabriela Bìlá**
+
+Gabriela Bìlá is a Brazilian architect, multimedia designer and artist. She uses discussions over the contemporary city as the raw material of her work, combining new media and immersive interfaces to reimagine cities.
+
+Gabriela is currently based in Cambridge Massachusetts, working as a Research Scientist and lecturer at the MIT Media Lab City Science group. Her line of research focuses on developing new immersive experiences to envision how humans will adapt to global changes and incorporation of new technologies in daily life. Her work has been featured at the Venice Architecture Biennale and the Guggenheim Bilbao. She has previously worked at various design and architecture offices such as OMA Rotterdam and LAVA Berlin.
+
+Contact: gba@mit.edu
+
+[Link to website](https://www.media.mit.edu/people/gba/overview/)
+
+
+
 
 
 ____________________________
