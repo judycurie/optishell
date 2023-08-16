@@ -18,3 +18,7 @@ Fab Foundation Poland is:
 - organize the Fab Academy course led by prof. Neil Gershenfeld (MIT) in Poland
 - develop open-source projects to help the housing crises in Poland & Ukraine
 - create inspiring environment & supportive community for people of any age, race, orientation, prior experience to make them feel cable of creating (almost) anything
+
+![](../assets/about/IMG-7782.jpg)
+
+**Fig.** Judy receives her Fab Academy diploma and blessings for Fab Foundation Poland from Prof. Neil Gershenfeld. MIT. Boston. 15th August 2023.
