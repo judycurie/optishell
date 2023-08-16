@@ -1,8 +1,10 @@
 
 Fab Foundation Poland is **a non-profit organisation** (verified for Google Nonprofits- Charity ID: 8982288193), therefore donations are in general tax-deducible [more info](../donate/tax-deductions.md). Currently we are trying to set-up a Fab Lab facility in Wrocław. We would appreciate any financial or material support. The list of equipment needed at the bottom of the website.
 
-# Financial Donations
+# [**DONATE HERE**](https://donate.stripe.com/8wM4gPejC4Poblu6op)
+______________
 
+## Financial Donations
 **Fundacja Fab Foundation Poland**
 
 **[PLN]:** PL07 1140 2004 0000 3802 8331 8997
@@ -11,7 +13,11 @@ Fab Foundation Poland is **a non-profit organisation** (verified for Google Nonp
 
 **Numer BIC / SWIFT:** BREXPLPWMBK
 
-# Material Donations
+
+
+______________
+
+## Material Donations
 
 **Equipment needed:**
 
