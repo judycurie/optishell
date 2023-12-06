@@ -14,7 +14,10 @@ nav:
     - Research:
       - nav/research/areas.md
       - nav/research/international-scientific-council.md
-    - FabLabWro: nav/fablab.md
+    - FabLabs:
+      -  nav/fablabs/fablab-model.md
+      -  nav/fablabs/fablab-wro.md
+    - Events: nav/events.md
     - Donate:
       - nav/donate/donate.md
       - nav/donate/tax-deductions.md
