@@ -1,5 +1,6 @@
 
-![](../assets/research/graphics-master-areas.png)
+![](../assets/research/graphics-master-areas-1.png)
+![](../assets/research/graphics-master-areas-2.png)
 # Research Areas
 
 

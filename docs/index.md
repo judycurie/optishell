@@ -12,4 +12,6 @@ The Fab Foundation Poland - a Polish daughter of the [Fab Foundation](https://fa
 
 ### Road Map
 
-![](./assets/ffp-roadmap.png)
+![](./assets/ffp-roadmap2023.png)
+
+made with [Simple Blog for MkDocs](https://github.com/FernandoCelmer/mkdocs-simple-blog)

@@ -1,8 +1,8 @@
 
 
 
-![](../assets/about/graphics-master-mission.png)
-
+![](../assets/about/graphics-master-mission-1.png)
+![](../assets/about/graphics-master-mission-2.png)
 Fab Foundation Poland is:
 
 - **a non-profit organisation** (verified for Google Nonprofits- Charity ID: 8982288193) and,

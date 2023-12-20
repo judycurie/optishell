@@ -1,7 +1,7 @@
 site_name: Fab Foundation Poland
 repo_name: judycurie/ffp
 site_url: https://www.fabfoundation.pl/
-copyright: Judy Curie
+copyright: Fab Foundation Poland
 
 nav:
     - Home: index.md
@@ -16,8 +16,9 @@ nav:
       - nav/research/international-scientific-council.md
     - FabLabs:
       -  nav/fablabs/fablab-model.md
-      -  nav/fablabs/fablab-wro.md
+      -  nav/fablabs/fab-institute.md
     - Events: nav/events.md
+    - Resources: nav/resources.md
     - Donate:
       - nav/donate/donate.md
       - nav/donate/tax-deductions.md
@@ -25,6 +26,7 @@ nav:
 
 theme:
   name: simple-blog
+  custom_dir: template
   title_style: normal
   favicon: assets/ffp-logo-white.svg
   logo: assets/ffp-icon.jpg
@@ -34,3 +36,5 @@ theme:
     title: black
     primary: black
     background: white
+plugins:
+    - mkdocs-video
