@@ -10,6 +10,7 @@ nav:
       - nav/about/founders.md
       - nav/about/statut.md
       - nav/about/regulations.md
+      - nav/about/community.md
 
     - Research:
       - nav/research/areas.md
@@ -39,3 +40,7 @@ theme:
     background: white
 plugins:
     - mkdocs-video
+markdown_extensions:
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true

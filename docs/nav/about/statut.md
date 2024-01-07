@@ -70,11 +70,11 @@ The Foundation pursues its statutory objectives by:
 ![](../assets/about/STATUT - Cele Statutowe i Działalność Fundacji - Google Sheets.png)
 
 
-**§ 9 **
+**§ 9**
 
 In order to achieve its goals, the Foundation may support the activities of other people and institutions convergent with its goals.
 
-**§ 10 **
+**§ 10**
 
 1. The Foundation conducts business activity to the extent necessary to achieve its goals.
 2. The Foundation may conduct business activity in Poland and abroad in accordance with applicable regulations.
@@ -82,7 +82,7 @@ In order to achieve its goals, the Foundation may support the activities of othe
 
 ###Accounting and Finance
 
-**§ 11 **
+**§ 11**
 
 1. The Foundation keeps accounts in accordance with the regulations applicable to legal persons, with the possibility of separating public benefit activities and economic activities.
 2. The amount of employment, rules of remuneration and funds allocated for remuneration are determined by the Management Board of the Foundation.
@@ -92,7 +92,7 @@ In order to achieve its goals, the Foundation may support the activities of othe
 ###Foundation's assets and income
 
 
-**§ 12 **
+**§ 12**
 
 1. The property of the Foundation is its founding fund in the amount of PLN 2,000.00 (say: two thousand zlotys) and other property acquired by the Foundation in the course of its operation.
 2. The founding fund is allocated in the amount of PLN 1,000.00 (say: one thousand zlotys) for statutory activity and PLN 1,000.00 (say: one thousand zlotys) for business activity. 3. The Foundation's income may come in particular from:
@@ -103,14 +103,14 @@ d. proceeds from statutory activities;
 e. profit on deposits in banks and capital market institutions, interest and bank deposits; f. income from the Foundation's assets;
 g. economic activity.
 
-**§ 13 **
+**§ 13**
 
 All income obtained by the Foundation from its business activities, subsidies, public collections, donations or sponsorships are allocated to the implementation of its goals, its development and structure.
 
 ##Chapter IV
 ###Structure/ Bodies of the Foundation
 
-**§ 14 **
+**§ 14**
 
 1. The foundation's bodies are:
 
@@ -124,7 +124,7 @@ Resolutions are adopted by the Founders' Presidium by unanimous decision of both
 
 **A. Management Board**
 
-**§ 16 **
+**§ 16**
 
 1. The Management Board manages the activities of the Foundation and represents it outside.
 2. The tasks of the Management Board include in particular:
@@ -141,7 +141,7 @@ k. supervising the activities of all organizational units of the Foundation and 
 l. establishing awards, distinctions and other forms of honoring people who have contributed to the ideas and goals of the Foundation.
 3. Members of the Management Board may receive remuneration. The remuneration of the Members of the Management Board is determined by the Founders' Presidium.
 
-**§ 17 **
+**§ 17**
 
 1. The Management Board of the Foundation consists of 2 to 5 people appointed by the Founders' Presidium for a period of 3 years. For important reasons, a member of the Management Board may be dismissed before the end of the term of office. The Founders may be members of the Foundation's Management Board.
 2. The Founders' Bureau appoints the President of the Management Board and the Vice-President of the Management Board. 3. The work of the Management Board is managed by the President of the Management Board.
@@ -167,7 +167,7 @@ b. Vice-President of the Foundation Board - independently
 
 **B. International Scientific Council**
 
-**§ 20 **
+**§ 20**
 
 1. The Management Board may appoint the International Scientific Council as a scientific, advisory and representative body of the Foundation.
 2. The International Scientific Council of the Foundation will consist of at least 9 persons appointed by the Management Board, including at least 60% of scientists permanently working abroad.
@@ -181,20 +181,20 @@ f. conduct research in accordance with the goals of the foundation (this also ap
 ##Chapter V
 ##Final Provisions
 
-**§ 21 **
+**§ 21**
 
 Amendments to the Foundation's statute are made by the Foundation's management board after obtaining the consent of the Founders' Presidium.
 
 **Merge with another foundation**
 
-**§ 22 **
+**§ 22**
 
 1. The Foundation may merge with another foundation for the effective implementation of its goals.
 2. In matters of merger with another Foundation, the Management Board is competent, while its decisions are made by unanimous resolution and require approval by the Founders' Presidium to be effective.
 
-**Liquidation of the Foundation **
+**Liquidation of the Foundation**
 
-**§ 23 **
+**§ 23 *
 
 The decision on liquidation is taken by the Management Board by way of a unanimous resolution, which requires approval by the Founders' Presidium in order to produce legal effects. The resolution on liquidation may specify the purposes for which the assets should be allocated after its liquidation.
 
@@ -204,6 +204,6 @@ The decision on liquidation is taken by the Management Board by way of a unanimo
 
 In matters not covered by this Statute, the relevant provisions of national and international law shall apply.
 
-**§ 25 **
+**§ 25**
 
 The Statute enters into force on the day of registration by the District Court for the capital city of Wrocław.
