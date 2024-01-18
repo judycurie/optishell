@@ -9,12 +9,15 @@ We have just established a new facility in Wrocław - [**Fab Institute**](https:
 **Address**:Łokietka 12c, 50-243 Wrocław, Poland
 
 ![](../assets/fablabs/map0.jpg)
+
 **Fig.** Fab Institute in the city center of Wrocław.
 
 ![](../assets/fablabs/map1.jpg)
+
 **Fig.** Entrance to the Fab Institute from Brodatego Street.
 
 ![](../assets/fablabs/231220_now.jpg)
+
 **Fig.** The current arrangement with individual offices and 10 desks to rent.
 
 
