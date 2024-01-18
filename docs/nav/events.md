@@ -32,6 +32,7 @@
 6. [240228- 6th Fab Academy 2024](./e002.md) [Lecture]
 
 ###Mar 2024
+
 7. [240302- OPTISHELL - asymptotic gridshells](./e003.md) [Workshop]
 8. [240306- 7th Fab Academy 2024](./e002.md) [Lecture]
 9. [240313- 8th Fab Academy 2024](./e002.md) [Lecture]
